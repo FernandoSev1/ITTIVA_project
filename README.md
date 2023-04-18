@@ -227,7 +227,7 @@ Antes de utilizar las nuevas funcionalidades de administración de contenido del
 ![image](https://user-images.githubusercontent.com/106614143/232642122-08a1241c-f2e9-48ed-a4a6-1514b45e911c.png)
 
 
-¡Eso es todo! Si ha seguido estos pasos, debería tener una instancia del proyecto Optimen Web Site ejecutándose en su computadora. 
+Si haz seguido todos los pasos, entonces tendrás el proyecto funcionando correctamente. 
 
 ## Guias
 #### Inicio de sesión
