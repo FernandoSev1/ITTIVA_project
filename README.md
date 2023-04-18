@@ -295,7 +295,7 @@ En esta opción se podrán hacer los cambios de acuerdo con las necesidades del 
 
 ## Participantes
 * [Jorge Luis Ayala Manrique](https://github.com/JorgeADnro)
-* [Omar Ricardo]()
+* [Omar Ricardo Garay Garcia](https://github.com/Ricardo7173)
 * [Espinoza Gómez Abraham Salvador](https://github.com/Abrahames0)
 * [Fuentes Cabrera Itzel Alessandra](https://github.com/ItzelFuentes)
 * [Martínez Aldavera Alma Yesenia](https://github.com/YeseniaMartinez24)
