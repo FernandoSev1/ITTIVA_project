@@ -158,7 +158,6 @@ Indicar los casos de prueba
 #### Ejecución.
 Evidencia de Ejecución de Casos de prueba.
 
-
 <!-- Iniciando -->
 ## Iniciando
 Iniciando.
@@ -185,60 +184,48 @@ Antes de utilizar las nuevas funcionalidades de administración de contenido del
 
 ## Proceso de instalación para el Front-end
 
-2.	Para clonar el proyecto crearemos una carpeta y en esta abriremos una terminal del sistema en la que escribiremos el comando “git clone https://github.com/jantorres53/Ittiva.git” y esperaremos a que termine de descargarse el proyecto.
+2.	Abriremos la carpeta que nos descargó el paso anterior y abriremos una terminal nueva, después escribiremos el comando “npm i” para que descargue todas las dependencias utilizadas y esperaremos a que termine el proceso.
 
-![image](https://user-images.githubusercontent.com/106614143/232640110-300178f6-f182-491a-9635-1a75bfdf7a4a.png)
-![image](https://user-images.githubusercontent.com/106614143/232640132-459162a5-50dd-4691-8a60-b882a29d1638.png)
+![image](https://user-images.githubusercontent.com/106614143/232641763-5e7dca67-f32c-4d56-9fad-16420692cb67.png)
+![image](https://user-images.githubusercontent.com/106614143/232641772-5194fa84-069f-40c7-b7eb-12ac2a871201.png)
 
 3. Después de esto se tendrá que ejecutar el comando “ng s” y esperaremos a que finalice el proceso.
 
 ![image](https://user-images.githubusercontent.com/106614143/232640374-10268290-037b-4351-8458-4732e2e0995f.png)
 ![image](https://user-images.githubusercontent.com/106614143/232640477-731d7185-5e50-459d-9008-c2139679b4ea.png)
 
-
 4.	Abriremos el navegador y escribiremos en la barra de búsqueda la siguiente ruta: “localhost:4200”.
 
-![image](https://user-images.githubusercontent.com/106614143/232640441-b5a318c2-19f0-4e65-8904-29d12af396e7.png)
+![image](https://user-images.githubusercontent.com/106614143/232641833-4d93699f-50a5-42e5-b65e-0ea90638e5a7.png)
 
 ## Proceso de instalación para el Back-end
 
 5.	Para realizar la instalación del sistema, necesitaremos descargar el archivo de back-end del siguiente repositorio al igual que el front-end con el comando “git clone https://github.com/JorgeADnro/Back-End-Integradora.git”.
 
-*	Para instalar Node.js, visite el sitio web de Node.js y descargue la versión adecuada para su sistema operativo. Siga las instrucciones en pantalla para instalar Node.js en su computadora.
+![image](https://user-images.githubusercontent.com/106614143/232641931-ddec9f20-3795-405d-a96b-3b52001109f8.png)
+![image](https://user-images.githubusercontent.com/106614143/232641944-38c45ed5-1351-4bed-b58d-75455ccc40ea.png)
 
-*	npm se instalará automáticamente cuando instale Node.js.
-Una vez que tenga Node.js y npm instalados, abra una ventana de línea de comandos dentro de Visual Studio Code y navegue hasta el directorio donde descomprimió el código fuente.
 
-*	Ejecute el comando: npm install para instalar todas las dependencias necesarias.
+6.	Luego utilizaremos una herramienta llamada “Spring tool suite 4” para abrir el archivo dando clic en File, luego en Open Project from File System.
 
-5.	Una vez que se hayan completado los pasos anteriores, puede instalar las dependencias del back-end y front-end. Abra un terminal con el comando: Ctrl + ñ
+![image](https://user-images.githubusercontent.com/106614143/232641967-b4be68a2-e3f5-4ddf-9028-91cbfc92a445.png)
 
-![image]()
+7. Procederemos a dar clic en “Import” y seleccionaremos la carpeta que dice General y luego en Projects from Folder Archive.
 
-6.	Entre a la carpeta de back-end usando el siguiente comando: cd back
+![image](https://user-images.githubusercontent.com/106614143/232642040-3ec1d470-f267-4467-b7a2-f22a95577dc6.png)
 
-![image]()
+8. Procederemos a dar clic en “Directory…” y seleccionaremos la carpeta donde se clonó el proyecto, luego de eso daremos clic en Finish.
 
-7. Ahora use el comando npm i para instalar las dependencias necesarias también debe instalar mongoose por lo que debe usar el siguiente comando: npm install mongoose –force y así mismo después se pueda levantar el servidor sin problema. 
+![image](https://user-images.githubusercontent.com/106614143/232642101-68fb9676-b285-4885-8d7b-346d60d2c514.png)
 
-![image]()
+9.Una vez abierto el proyecto en la parte inferior izquierda daremos clic en local y daremos en (Re)start.
 
-8. Ejecute el comando npm start para iniciar el servidor web, es muy importante que mantengamos un monitoreo constante de este archivo ya que este contiene la conexión a la base de datos.
+![image](https://user-images.githubusercontent.com/106614143/232642075-f4bd6ed2-ceb8-40bd-809b-ec751d4e915d.png)
 
-![image]()
+10. Al momento de ejecutar la opción, se ejecutará el servicio y podremos usar el proyecto normalmente.
 
-9. Se abre una pestaña nueva en la cual se usará el siguiente comando: cd frontend para entrar a la carpeta 
-y poder instalar las dependencias.
+![image](https://user-images.githubusercontent.com/106614143/232642122-08a1241c-f2e9-48ed-a4a6-1514b45e911c.png)
 
-![image]()
-
-10. Ahora use el comando npm i para instalar las dependencias necesarias y cuando termine la descarga ahora use el comando npm start para levantar el front-end.
-
-![image]()
-
-11. Abra su navegador web y vaya a la dirección http://localhost:3000 para acceder al sitio web Optimen.
-
-![image]()
 
 ¡Eso es todo! Si ha seguido estos pasos, debería tener una instancia del proyecto Optimen Web Site ejecutándose en su computadora. 
 
