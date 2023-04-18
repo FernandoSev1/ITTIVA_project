@@ -174,21 +174,35 @@ Antes de utilizar las nuevas funcionalidades de administración de contenido del
 
 
 <!-- Instalación -->
-### Instalacion
-Instalación del Software
-1.	Haga clic en el botón verde "Code" en la página del repositorio y seleccione "Download ZIP" para descargar el archivo ZIP del código fuente.
+### Proceso de instalación
 
-![image]()
+## Clonar el proyecto
 
-2.	Descomprima el archivo ZIP descargado en un directorio de su elección.
+1.	Para clonar el proyecto crearemos una carpeta y en esta abriremos una terminal del sistema en la que escribiremos el comando “git clone https://github.com/jantorres53/Ittiva.git” y esperaremos a que termine de descargarse el proyecto.
 
-![image]()
+![image](https://user-images.githubusercontent.com/106614143/232639865-51aca498-762c-4548-97e4-6c82ed8582aa.png)
+![image](https://user-images.githubusercontent.com/106614143/232639932-d4d31d2f-2d1b-4355-8f34-ff50453096a2.png)
 
-3.	Abra Visual Studio Code en su computadora y seleccione "File" en la barra de menú superior, luego seleccione "Open Folder". Navegue hasta el directorio donde descomprimió el código fuente y seleccione la carpeta del proyecto.
+## Proceso de instalación para el Front-end
 
-![image]()
+2.	Para clonar el proyecto crearemos una carpeta y en esta abriremos una terminal del sistema en la que escribiremos el comando “git clone https://github.com/jantorres53/Ittiva.git” y esperaremos a que termine de descargarse el proyecto.
 
-4.	El proyecto requiere Node.js y npm. Si no los tiene instalados, debe descargarlos e instalarlos antes de continuar, si ya lo tiene puede pasar al paso 5.
+![image](https://user-images.githubusercontent.com/106614143/232640110-300178f6-f182-491a-9635-1a75bfdf7a4a.png)
+![image](https://user-images.githubusercontent.com/106614143/232640132-459162a5-50dd-4691-8a60-b882a29d1638.png)
+
+3. Después de esto se tendrá que ejecutar el comando “ng s” y esperaremos a que finalice el proceso.
+
+![image](https://user-images.githubusercontent.com/106614143/232640374-10268290-037b-4351-8458-4732e2e0995f.png)
+![image](https://user-images.githubusercontent.com/106614143/232640477-731d7185-5e50-459d-9008-c2139679b4ea.png)
+
+
+4.	Abriremos el navegador y escribiremos en la barra de búsqueda la siguiente ruta: “localhost:4200”.
+
+![image](https://user-images.githubusercontent.com/106614143/232640441-b5a318c2-19f0-4e65-8904-29d12af396e7.png)
+
+## Proceso de instalación para el Back-end
+
+5.	Para realizar la instalación del sistema, necesitaremos descargar el archivo de back-end del siguiente repositorio al igual que el front-end con el comando “git clone https://github.com/JorgeADnro/Back-End-Integradora.git”.
 
 *	Para instalar Node.js, visite el sitio web de Node.js y descargue la versión adecuada para su sistema operativo. Siga las instrucciones en pantalla para instalar Node.js en su computadora.
 
